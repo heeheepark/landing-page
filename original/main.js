@@ -8,7 +8,6 @@ function randomString() {
   return selectStringArr;
 }
 
-
 // 타이핑 리셋
 function resetTyping() {
   target.textContent = "";
